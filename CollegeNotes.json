@@ -1,0 +1,26 @@
+{
+  "degreeName": "Ingenieria industrial",
+  "ciclos": [
+    {
+      "numCiclo": 0,
+      "notaSemestre": 0,
+      "Courses": [
+        {
+          "curso": "Lorem Ipsum",
+          "nota": [
+            15,
+            15,
+            20
+          ],
+          "porcentaje": [
+            15,
+            15,
+            20
+          ],
+          "notaFinal": 9,
+          "credito": 3
+        }
+      ]
+    }
+  ]
+}

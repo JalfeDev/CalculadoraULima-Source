@@ -1,0 +1,36 @@
+resolucion 108 / 216 / 432: rojo
+resolucion 81 / 162 / 324: azul
+
+La resolucion del Samsung A3 es: 720 x 1600
+
+En la pantalla Inicio usa la resolucion x324
+
+En los demas usa la resolucion x216
+
+Aunque la imagen sea x324, sigue apareciendo muy grande
+
+
+
+216 en 216  |   324 en 324
+    Default Icon : x324
+    Usa la x216 en Google Files y en las ventanas de informacion
+    Usa la x324 en la Pantalla Inicio o Pantalla Principal
+    El logo sigue apareciendo expandido
+
+216 en 216  |   162 en 324
+    Default Icon : x324
+    Ningun cambio en la x216
+    Ningun cambio en la x162
+
+216 en 216  |   162 en 324
+    Default Icon : x162
+    Ningun cambio en la x216
+    Ningun cambio en la x162
+
+Nada:
+    Default Icon : x81
+    FUNCIONO
+    
+Nada:
+    Default Icon : x324
+    FUNCIONO
